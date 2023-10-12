@@ -1,0 +1,11 @@
+1)ans- we can use mkdir command to make new or more directories.
+2)ANS- WE USE CTRL+H to see hidden files 
+3)ans- we can use this steps to intialize a command:
+Create a directory to contain the project.
+Go into the new directory.
+Type git init .
+Write some code.
+Type git add to add the files (see the typical use page).
+Type git commit.
+4)ans- we can use git add -- to create acommand file in bash. 
+5)git config --edit is used for opeing file in git hub.
